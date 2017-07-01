@@ -1,0 +1,9 @@
+[user]
+	name = Mahesh
+	email = mahesh.rvrjc@gmail.com
+[color]
+	ui = true
+[core]
+	editor = /mahesh/bin/vim
+	excludefile = -/.gitignore_global
+	excludesfile = /home/mahesh/.gitignore_global

@@ -1,0 +1,17 @@
+GNOME_KEYRING_SOCKET=/tmp/keyring-gZOTjQ/socket
+SSH_AUTH_SOCK=/tmp/keyring-gZOTjQ/socket.ssh
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+Failed to play sound: File or data not found
+
+(polkit-gnome-authentication-agent-1:2484): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:2484): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+(null):  Warning no default label for /home/mahesh/.gvfs
+httpd: Could not reliably determine the server's fully qualified domain name, using localhost.localdomain for ServerName
+** Message: applet now removed from the notification area
+** Message: applet now embedded in the notification area
+Initializing nautilus-gdu extension
+Initializing nautilus-open-terminal extension
+(null) get context on /home/mahesh/.viminfo.tmp failed: 'No such file or directory'
+(null) get context on /home/mahesh/4913 failed: 'No such file or directory'
+(null) get context on /home/mahesh/.viminfo.tmp failed: 'No such file or directory'

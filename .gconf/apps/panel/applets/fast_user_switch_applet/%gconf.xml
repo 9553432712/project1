@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="panel_right_stick" mtime="1498794189" type="bool" value="true"/>
+	<entry name="locked" mtime="1498914624" type="bool" value="true"/>
+	<entry name="position" mtime="1498914624" type="int" value="87"/>
+</gconf>

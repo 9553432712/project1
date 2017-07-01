@@ -1,0 +1,17 @@
+[Wed Jun 28 09:40:11 2017] [notice] SELinux policy enabled; httpd running as context unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
+[Wed Jun 28 09:40:11 2017] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 28 09:40:11 2017] [notice] Digest: done
+[Wed Jun 28 09:40:11 2017] [notice] Apache/2.2.15 (Unix) DAV/2 configured -- resuming normal operations
+[Thu Jun 29 14:23:26 2017] [notice] SELinux policy enabled; httpd running as context unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
+[Thu Jun 29 14:23:27 2017] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 29 14:23:27 2017] [notice] Digest: done
+[Thu Jun 29 14:23:27 2017] [notice] Apache/2.2.15 (Unix) DAV/2 configured -- resuming normal operations
+[Fri Jun 30 02:20:01 2017] [notice] SELinux policy enabled; httpd running as context unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
+[Fri Jun 30 02:20:01 2017] [notice] Digest: generating secret for digest authentication ...
+[Fri Jun 30 02:20:01 2017] [notice] Digest: done
+[Fri Jun 30 02:20:01 2017] [notice] Apache/2.2.15 (Unix) DAV/2 configured -- resuming normal operations
+[Fri Jun 30 09:11:30 2017] [notice] caught SIGTERM, shutting down
+[Sat Jul 01 04:51:11 2017] [notice] SELinux policy enabled; httpd running as context unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
+[Sat Jul 01 04:51:11 2017] [notice] Digest: generating secret for digest authentication ...
+[Sat Jul 01 04:51:11 2017] [notice] Digest: done
+[Sat Jul 01 04:51:11 2017] [notice] Apache/2.2.15 (Unix) DAV/2 configured -- resuming normal operations
